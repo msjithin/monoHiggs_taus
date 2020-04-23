@@ -1,0 +1,72 @@
+
+**************  histogram name = Muon_Pt_3************
+
+DY events =  73676.7293415
+VV events = 5044.667099
+TT events = 27964.7733002
+WJets events = 270633.776329
+ggH125 events = 192.321804993
+ZJetsToNuNu events = 0.0164392497391
+QCD  events = -4201.04628754
+Data events = 391059.0
+
+
+**************  histogram name = h_dPhi_3************
+
+DY events =  73676.5647583
+VV events = 5044.65086365
+TT events = 27964.81427
+WJets events = 270633.852783
+ggH125 events = 192.321160555
+ZJetsToNuNu events = 0.0164392497391
+QCD  events = -4201.18688965
+Data events = 391059.0
+
+
+**************  histogram name = Muon_Pt_4************
+
+DY events =  11672.2644129
+VV events = 2286.99610519
+TT events = 12003.6888275
+WJets events = 107589.819733
+ggH125 events = 18.639412079
+ZJetsToNuNu events = 0.0164392497391
+QCD  events = -11530.9857216
+Data events = 130820.0
+
+
+**************  histogram name = Muon_Pt_5************
+
+DY events =  2913.09178829
+VV events = 925.687725067
+TT events = 5983.84472656
+WJets events = 15055.9160881
+ggH125 events = 4.61107686348
+ZJetsToNuNu events = 0.0164392497391
+QCD  events = -6246.28689575
+Data events = 27376.0
+
+
+**************  histogram name = Muon_Pt_6************
+
+DY events =  1976.09617007
+VV events = 562.568899155
+TT events = 4139.14596367
+WJets events = 10928.8016701
+ggH125 events = 3.8163326974
+ZJetsToNuNu events = 0.0
+QCD  events = -4674.82721806
+Data events = 19359.0
+
+
+**************  histogram name = Muon_Pt_7************
+
+DY events =  69.2858861685
+VV events = 107.764996007
+TT events = 898.387305975
+WJets events = 605.694294035
+ggH125 events = 0.687203217065
+ZJetsToNuNu events = 0.0
+QCD  events = -962.480630279
+Data events = 2296.0
+

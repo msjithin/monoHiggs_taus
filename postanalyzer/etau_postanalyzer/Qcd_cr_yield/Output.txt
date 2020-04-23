@@ -1,0 +1,264 @@
+
+**************  histogram name = Electron_Pt_3************
+After b-jet veto
+DY events =  9735.39672184
+VV events = 270.134805441
+TT events = 220.858502746
+WJets events = 10064.7293072
+ ggH125 events = 6.20438377932
+ZJetsToNuNu events = 0.0805044174194
+Data events = 36527.0
+
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  9735.40015411
+VV events = 270.134695053
+TT events = 220.858489037
+WJets events = 10064.7300415
+ ggH125 events = 6.20438233018
+ZJetsToNuNu events = 0.0805044174194
+Data events = 36527.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  9735.40075684
+VV events = 270.134654999
+TT events = 220.858477592
+WJets events = 10064.7308197
+ ggH125 events = 6.20438121259
+ZJetsToNuNu events = 0.0805044174194
+Data events = 36527.0
+
+
+**************  histogram name = Electron_eta_3************
+After b-jet veto
+DY events =  9735.40148926
+VV events = 270.134698868
+TT events = 220.858488083
+WJets events = 10064.7304077
+ ggH125 events = 6.20438119769
+ZJetsToNuNu events = 0.0805044174194
+Data events = 36527.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  9735.40092158
+VV events = 270.134743751
+TT events = 220.858483791
+WJets events = 10064.7308183
+ ggH125 events = 6.2043818477
+ZJetsToNuNu events = 0.0805044174194
+Data events = 36527.0
+
+
+**************  histogram name = Electron_phi_3************
+After b-jet veto
+DY events =  9735.40098977
+VV events = 270.134751022
+TT events = 220.858486459
+WJets events = 10064.7308611
+ ggH125 events = 6.2043816098
+ZJetsToNuNu events = 0.0805044174194
+Data events = 36527.0
+
+
+**************  histogram name = Electron_Pt_6************
+After b-jet veto
+DY events =  20.999404341
+VV events = 8.54425534047
+TT events = 17.0408234149
+WJets events = 47.8478791435
+ ggH125 events = 0.219190319127
+ZJetsToNuNu events = 0.0
+Data events = 264.0
+
+
+**************  histogram name = h_dPhi_6************
+After b-jet veto
+DY events =  20.9994038045
+VV events = 8.5442552045
+TT events = 17.0408232659
+WJets events = 47.8478761688
+ ggH125 events = 0.219190308359
+ZJetsToNuNu events = 0.0
+Data events = 264.0
+
+
+**************  histogram name = Tau_eta_6************
+After b-jet veto
+DY events =  20.9994048774
+VV events = 8.54425530136
+TT events = 17.0408234298
+WJets events = 47.8478766531
+ ggH125 events = 0.219190311327
+ZJetsToNuNu events = 0.0
+Data events = 264.0
+
+
+**************  histogram name = Electron_eta_6************
+After b-jet veto
+DY events =  20.9994041622
+VV events = 8.54425539076
+TT events = 17.0408232212
+WJets events = 47.847877264
+ ggH125 events = 0.219190305565
+ZJetsToNuNu events = 0.0
+Data events = 264.0
+
+
+**************  histogram name = Tau_phi_6************
+After b-jet veto
+DY events =  20.9994040579
+VV events = 8.54425527368
+TT events = 17.0408231616
+WJets events = 47.8478776868
+ ggH125 events = 0.219190315343
+ZJetsToNuNu events = 0.0
+Data events = 264.0
+
+
+**************  histogram name = Electron_phi_6************
+After b-jet veto
+DY events =  20.9994041771
+VV events = 8.54425536096
+TT events = 17.0408232957
+WJets events = 47.8478784859
+ ggH125 events = 0.219190314878
+ZJetsToNuNu events = 0.0
+Data events = 264.0
+
+
+**************  histogram name = Electron_Pt_3************
+After b-jet veto
+DY events =  9735.39672184
+VV events = 270.134805441
+TT events = 220.858502746
+WJets events = 10064.7293072
+ ggH125 events = 6.20438377932
+ZJetsToNuNu events = 0.0805044174194
+Data events = 36527.0
+
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  9735.40015411
+VV events = 270.134695053
+TT events = 220.858489037
+WJets events = 10064.7300415
+ ggH125 events = 6.20438233018
+ZJetsToNuNu events = 0.0805044174194
+Data events = 36527.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  9735.40075684
+VV events = 270.134654999
+TT events = 220.858477592
+WJets events = 10064.7308197
+ ggH125 events = 6.20438121259
+ZJetsToNuNu events = 0.0805044174194
+Data events = 36527.0
+
+
+**************  histogram name = Electron_eta_3************
+After b-jet veto
+DY events =  9735.40148926
+VV events = 270.134698868
+TT events = 220.858488083
+WJets events = 10064.7304077
+ ggH125 events = 6.20438119769
+ZJetsToNuNu events = 0.0805044174194
+Data events = 36527.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  9735.40092158
+VV events = 270.134743751
+TT events = 220.858483791
+WJets events = 10064.7308183
+ ggH125 events = 6.2043818477
+ZJetsToNuNu events = 0.0805044174194
+Data events = 36527.0
+
+
+**************  histogram name = Electron_phi_3************
+After b-jet veto
+DY events =  9735.40098977
+VV events = 270.134751022
+TT events = 220.858486459
+WJets events = 10064.7308611
+ ggH125 events = 6.2043816098
+ZJetsToNuNu events = 0.0805044174194
+Data events = 36527.0
+
+
+**************  histogram name = Electron_Pt_6************
+After b-jet veto
+DY events =  20.999404341
+VV events = 8.54425534047
+TT events = 17.0408234149
+WJets events = 47.8478791435
+ ggH125 events = 0.219190319127
+ZJetsToNuNu events = 0.0
+Data events = 264.0
+
+
+**************  histogram name = h_dPhi_6************
+After b-jet veto
+DY events =  20.9994038045
+VV events = 8.5442552045
+TT events = 17.0408232659
+WJets events = 47.8478761688
+ ggH125 events = 0.219190308359
+ZJetsToNuNu events = 0.0
+Data events = 264.0
+
+
+**************  histogram name = Tau_eta_6************
+After b-jet veto
+DY events =  20.9994048774
+VV events = 8.54425530136
+TT events = 17.0408234298
+WJets events = 47.8478766531
+ ggH125 events = 0.219190311327
+ZJetsToNuNu events = 0.0
+Data events = 264.0
+
+
+**************  histogram name = Electron_eta_6************
+After b-jet veto
+DY events =  20.9994041622
+VV events = 8.54425539076
+TT events = 17.0408232212
+WJets events = 47.847877264
+ ggH125 events = 0.219190305565
+ZJetsToNuNu events = 0.0
+Data events = 264.0
+
+
+**************  histogram name = Tau_phi_6************
+After b-jet veto
+DY events =  20.9994040579
+VV events = 8.54425527368
+TT events = 17.0408231616
+WJets events = 47.8478776868
+ ggH125 events = 0.219190315343
+ZJetsToNuNu events = 0.0
+Data events = 264.0
+
+
+**************  histogram name = Electron_phi_6************
+After b-jet veto
+DY events =  20.9994041771
+VV events = 8.54425536096
+TT events = 17.0408232957
+WJets events = 47.8478784859
+ ggH125 events = 0.219190314878
+ZJetsToNuNu events = 0.0
+Data events = 264.0
+

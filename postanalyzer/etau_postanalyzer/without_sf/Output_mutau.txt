@@ -1,0 +1,210 @@
+
+**************  histogram name = Muon_Pt_3************
+After b-jet veto
+DY events =  97419.4644186
+VV events = 6483.12245274
+TT events = 67645.8672314
+WJets events = 20538.9947958
+Data events = 305715.0
+
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  97419.4595947
+VV events = 6483.12220764
+TT events = 67645.8682861
+WJets events = 20538.9947815
+Data events = 305715.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  97419.456665
+VV events = 6483.12234497
+TT events = 67645.8665771
+WJets events = 20538.9942932
+Data events = 305715.0
+
+
+**************  histogram name = Muon_eta_3************
+After b-jet veto
+DY events =  97419.4584961
+VV events = 6483.12245178
+TT events = 67645.8674316
+WJets events = 20538.9945068
+Data events = 305715.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  97419.4599552
+VV events = 6483.12232387
+TT events = 67645.8669205
+WJets events = 20538.9958086
+Data events = 305715.0
+
+
+**************  histogram name = Muon_phi_3************
+After b-jet veto
+DY events =  97419.4572544
+VV events = 6483.12244296
+TT events = 67645.8666954
+WJets events = 20538.9951262
+Data events = 305715.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 239138384.0
+VV events = 7113908.5
+TT events = 92229792.0
+WJets events = 116923536.0
+Data events = 1491258496.0
+********************************
+After b-jet veto
+DY events = 97419.453125
+VV events = 6483.12353516
+TT events = 67645.8671875
+WJets events = 20538.9921875
+Data events = 305715.0
+
+
+**************  histogram name = Muon_Pt_3************
+After b-jet veto
+DY events =  97419.4644186
+VV events = 6483.12245274
+TT events = 67645.8672314
+WJets events = 20538.9947958
+Data events = 305715.0
+
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  97419.4595947
+VV events = 6483.12220764
+TT events = 67645.8682861
+WJets events = 20538.9947815
+Data events = 305715.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  97419.456665
+VV events = 6483.12234497
+TT events = 67645.8665771
+WJets events = 20538.9942932
+Data events = 305715.0
+
+
+**************  histogram name = Muon_eta_3************
+After b-jet veto
+DY events =  97419.4584961
+VV events = 6483.12245178
+TT events = 67645.8674316
+WJets events = 20538.9945068
+Data events = 305715.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  97419.4599552
+VV events = 6483.12232387
+TT events = 67645.8669205
+WJets events = 20538.9958086
+Data events = 305715.0
+
+
+**************  histogram name = Muon_phi_3************
+After b-jet veto
+DY events =  97419.4572544
+VV events = 6483.12244296
+TT events = 67645.8666954
+WJets events = 20538.9951262
+Data events = 305715.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 239138384.0
+VV events = 7113908.5
+TT events = 92229792.0
+WJets events = 116923536.0
+Data events = 1491258496.0
+********************************
+After b-jet veto
+DY events = 97419.453125
+VV events = 6483.12353516
+TT events = 67645.8671875
+WJets events = 20538.9921875
+Data events = 305715.0
+
+
+**************  histogram name = Muon_Pt_3************
+After b-jet veto
+DY events =  91906.5555699
+VV events = 4039.94778919
+TT events = 11999.942023
+WJets events = 19241.4834065
+Data events = 275068.0
+
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  91906.5532837
+VV events = 4039.94804382
+TT events = 11999.9420166
+WJets events = 19241.4834595
+Data events = 275068.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  91906.5527344
+VV events = 4039.94802094
+TT events = 11999.941864
+WJets events = 19241.4837341
+Data events = 275068.0
+
+
+**************  histogram name = Muon_eta_3************
+After b-jet veto
+DY events =  91906.5522461
+VV events = 4039.94793701
+TT events = 11999.9420776
+WJets events = 19241.4837646
+Data events = 275068.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  91906.5551701
+VV events = 4039.94799003
+TT events = 11999.942
+WJets events = 19241.4834194
+Data events = 275068.0
+
+
+**************  histogram name = Muon_phi_3************
+After b-jet veto
+DY events =  91906.557476
+VV events = 4039.94806384
+TT events = 11999.9421432
+WJets events = 19241.4837208
+Data events = 275068.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 239138384.0
+VV events = 7113908.5
+TT events = 92229792.0
+WJets events = 116923536.0
+Data events = 1491258496.0
+********************************
+After b-jet veto
+DY events = 91906.5546875
+VV events = 4039.94824219
+TT events = 11999.9423828
+WJets events = 19241.4824219
+Data events = 275068.0
+

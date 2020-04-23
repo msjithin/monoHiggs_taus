@@ -1,0 +1,2541 @@
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  106707.15802
+VV events = 3802.49435425
+TT events = 5696.81872559
+WJets events = 149152.743164
+Data events = 260112.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  106708.156738
+VV events = 3802.49600983
+TT events = 5696.82674408
+WJets events = 149152.756836
+Data events = 260112.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  106708.110793
+VV events = 3802.49453688
+TT events = 5696.80580366
+WJets events = 149152.722829
+Data events = 260112.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+WJets events = 2646435328.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+WJets events = 2554609664.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+WJets events = 329900128.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+WJets events = 325805216.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 160546.03125
+VV events = 9143.4765625
+TT events = 45105.25
+WJets events = 225650.515625
+Data events = 411494.0
+********************************
+opp charge
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+WJets events = 154605.3125
+Data events = 302145.0
+********************************
+delta R
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+WJets events = 154605.3125
+Data events = 302145.0
+********************************
+3rd lepton veto
+DY events = 111946.34375
+VV events = 6328.86328125
+TT events = 32653.3007812
+WJets events = 154120.03125
+Data events = 300123.0
+********************************
+After b-jet veto
+DY events = 106707.59375
+TT events = 5696.80712891
+WJets events = 149152.78125
+ VV events = 3802.49365234
+ ggH125 events = 526.701904297
+ ZJetsToNuNu events = 0.0
+ Total bkg = 265886.377686
+Data events = 260112.0
+********************************
+After visible mass cut
+DY events = 9868.68847656
+TT events = 1677.88134766
+WJets events = 12165.6845703
+ VV events = 951.852783203
+ ggH125 events = 89.7018280029
+ ZJetsToNuNu events = 0.0
+ Total bkg = 24753.8090057
+Data events = 23739.0
+********************************
+After met cut
+DY events = 0.0
+TT events = 0.0
+WJets events = 0.0
+ VV events = 0.0
+ ggH125 events = 0.0
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 0.0
+Data events = 0.0
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+WJets events = 2646435328.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+WJets events = 2554609664.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+WJets events = 329900128.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+WJets events = 325805216.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 160546.03125
+VV events = 9143.4765625
+TT events = 45105.25
+WJets events = 225650.515625
+Data events = 411494.0
+********************************
+opp charge
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+WJets events = 154605.3125
+Data events = 302145.0
+********************************
+delta R
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+WJets events = 154605.3125
+Data events = 302145.0
+********************************
+3rd lepton veto
+DY events = 111946.34375
+VV events = 6328.86328125
+TT events = 32653.3007812
+WJets events = 154120.03125
+Data events = 300123.0
+********************************
+After b-jet veto
+DY events = 106707.59375
+TT events = 5696.80712891
+WJets events = 149152.78125
+ VV events = 3802.49365234
+ ggH125 events = 526.701904297
+ ZJetsToNuNu events = 0.0
+ Total bkg = 265886.377686
+Data events = 260112.0
+********************************
+After visible mass cut
+DY events = 9868.68847656
+TT events = 1677.88134766
+WJets events = 12165.6845703
+ VV events = 951.852783203
+ ggH125 events = 89.7018280029
+ ZJetsToNuNu events = 0.0
+ Total bkg = 24753.8090057
+Data events = 23739.0
+********************************
+After met cut
+DY events = 0.0
+TT events = 0.0
+WJets events = 0.0
+ VV events = 0.0
+ ggH125 events = 0.0
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 0.0
+Data events = 0.0
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+WJets events = 2646435328.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+WJets events = 2554609664.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+WJets events = 329900128.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+WJets events = 325805216.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 160546.03125
+VV events = 9143.4765625
+TT events = 45105.25
+WJets events = 225650.515625
+Data events = 411494.0
+********************************
+opp charge
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+WJets events = 154605.3125
+Data events = 302145.0
+********************************
+delta R
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+WJets events = 154605.3125
+Data events = 302145.0
+********************************
+3rd lepton veto
+DY events = 111946.34375
+VV events = 6328.86328125
+TT events = 32653.3007812
+WJets events = 154120.03125
+Data events = 300123.0
+********************************
+After b-jet veto
+DY events = 106707.59375
+TT events = 5696.80712891
+WJets events = 149152.78125
+ VV events = 3802.49365234
+ ggH125 events = 526.701904297
+ ZJetsToNuNu events = 0.0
+ Total bkg = 265886.377686
+Data events = 260112.0
+********************************
+After Higgs pt cut
+DY events = 10999.7373047
+TT events = 2529.10253906
+WJets events = 15849.3320312
+ VV events = 1341.21972656
+ ggH125 events = 92.5539627075
+ ZJetsToNuNu events = 0.0
+ Total bkg = 30811.9455643
+Data events = 30736.0********************************
+After visible mass cut
+DY events = 9868.68847656
+TT events = 1677.88134766
+WJets events = 12165.6845703
+ VV events = 951.852783203
+ ggH125 events = 89.7018280029
+ ZJetsToNuNu events = 0.0
+ Total bkg = 24753.8090057
+Data events = 23739.0
+********************************
+After met cut
+DY events = 1476.3190918
+TT events = 337.161132812
+WJets events = 622.837097168
+ VV events = 151.154006958
+ ggH125 events = 22.6058654785
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 2610.07719421
+Data events = 2420.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  106707.15802
+VV events = 3802.49435425
+TT events = 5696.81872559
+WJets events = 149152.743164
+Data events = 260112.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  106708.156738
+VV events = 3802.49600983
+TT events = 5696.82674408
+WJets events = 149152.756836
+Data events = 260112.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  106708.110793
+VV events = 3802.49453688
+TT events = 5696.80580366
+WJets events = 149152.722829
+Data events = 260112.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+WJets events = 2646435328.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+WJets events = 2554609664.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+WJets events = 329900128.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+WJets events = 325805216.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 160546.03125
+VV events = 9143.4765625
+TT events = 45105.25
+WJets events = 225650.515625
+Data events = 411494.0
+********************************
+opp charge
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+WJets events = 154605.3125
+Data events = 302145.0
+********************************
+delta R
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+WJets events = 154605.3125
+Data events = 302145.0
+********************************
+3rd lepton veto
+DY events = 111946.34375
+VV events = 6328.86328125
+TT events = 32653.3007812
+WJets events = 154120.03125
+Data events = 300123.0
+********************************
+After b-jet veto
+DY events = 106707.59375
+TT events = 5696.80712891
+WJets events = 149152.78125
+ VV events = 3802.49365234
+ ggH125 events = 526.701904297
+ ZJetsToNuNu events = 0.0
+ Total bkg = 265886.377686
+Data events = 260112.0
+********************************
+After Higgs pt cut
+DY events = 10999.7373047
+TT events = 2529.10253906
+WJets events = 15849.3320312
+ VV events = 1341.21972656
+ ggH125 events = 92.5539627075
+ ZJetsToNuNu events = 0.0
+ Total bkg = 30811.9455643
+Data events = 30736.0********************************
+After visible mass cut
+DY events = 9868.68847656
+TT events = 1677.88134766
+WJets events = 12165.6845703
+ VV events = 951.852783203
+ ggH125 events = 89.7018280029
+ ZJetsToNuNu events = 0.0
+ Total bkg = 24753.8090057
+Data events = 23739.0
+********************************
+After met cut
+DY events = 1476.3190918
+TT events = 337.161132812
+WJets events = 622.837097168
+ VV events = 151.154006958
+ ggH125 events = 22.6058654785
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 2610.07719421
+Data events = 2420.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  106707.15802
+VV events = 3802.49435425
+TT events = 5696.81872559
+WJets events = 149152.743164
+Data events = 260112.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  106708.156738
+VV events = 3802.49600983
+TT events = 5696.82674408
+WJets events = 149152.756836
+Data events = 260112.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  106708.110793
+VV events = 3802.49453688
+TT events = 5696.80580366
+WJets events = 149152.722829
+Data events = 260112.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+WJets events = 2646435328.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+WJets events = 2554609664.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+WJets events = 329900128.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+WJets events = 325805216.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 160546.03125
+VV events = 9143.4765625
+TT events = 45105.25
+WJets events = 225650.515625
+Data events = 411494.0
+********************************
+opp charge
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+WJets events = 154605.3125
+Data events = 302145.0
+********************************
+delta R
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+WJets events = 154605.3125
+Data events = 302145.0
+********************************
+3rd lepton veto
+DY events = 111946.34375
+VV events = 6328.86328125
+TT events = 32653.3007812
+WJets events = 154120.03125
+Data events = 300123.0
+********************************
+After b-jet veto
+DY events = 106707.59375
+TT events = 5696.80712891
+WJets events = 149152.78125
+ VV events = 3802.49365234
+ ggH125 events = 526.701904297
+ ZJetsToNuNu events = 0.0
+ Total bkg = 265886.377686
+Data events = 260112.0
+********************************
+After Higgs pt cut
+DY events = 10999.7373047
+TT events = 2529.10253906
+WJets events = 15849.3320312
+ VV events = 1341.21972656
+ ggH125 events = 92.5539627075
+ ZJetsToNuNu events = 0.0
+ Total bkg = 30811.9455643
+Data events = 30736.0********************************
+After visible mass cut
+DY events = 9868.68847656
+TT events = 1677.88134766
+WJets events = 12165.6845703
+ VV events = 951.852783203
+ ggH125 events = 89.7018280029
+ ZJetsToNuNu events = 0.0
+ Total bkg = 24753.8090057
+Data events = 23739.0
+********************************
+After met cut
+DY events = 1476.3190918
+TT events = 337.161132812
+WJets events = 622.837097168
+ VV events = 151.154006958
+ ggH125 events = 22.6058654785
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 2610.07719421
+Data events = 2420.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  106707.15802
+VV events = 3802.49435425
+TT events = 5696.81872559
+F_bkg events = 73585.9169922
+Data events = 260112.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  106708.156738
+VV events = 3802.49600983
+TT events = 5696.82674408
+F_bkg events = 73585.9301758
+Data events = 260112.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  106708.110793
+VV events = 3802.49453688
+TT events = 5696.80580366
+F_bkg events = 73585.9220362
+Data events = 260112.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384039008.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383460896.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 415187616.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+F_bkg events = 270154208.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 160546.03125
+VV events = 9143.4765625
+TT events = 45105.25
+F_bkg events = 1047957.5
+Data events = 411494.0
+********************************
+opp charge
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+F_bkg events = 82988.7109375
+Data events = 302145.0
+********************************
+delta R
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+F_bkg events = 82988.7109375
+Data events = 302145.0
+********************************
+3rd lepton veto
+DY events = 111946.34375
+VV events = 6328.86328125
+TT events = 32653.3007812
+F_bkg events = 82651.0859375
+Data events = 300123.0
+********************************
+After b-jet veto
+DY events = 106707.59375
+TT events = 5696.80712891
+F_bkg events = 73585.921875
+ VV events = 3802.49365234
+ ggH125 events = 526.701904297
+ ZJetsToNuNu events = 0.0
+ Total bkg = 190319.518311
+Data events = 260112.0
+********************************
+After Higgs pt cut
+DY events = 34182.7460938
+TT events = 4248.76757812
+F_bkg events = 22420.0820312
+ VV events = 2794.609375
+ ggH125 events = 156.368225098
+ ZJetsToNuNu events = 0.0
+ Total bkg = 63802.5733032
+Data events = 148414.0********************************
+After visible mass cut
+DY events = 3673.046875
+TT events = 1937.51818848
+F_bkg events = 4022.49951172
+ VV events = 1062.49536133
+ ggH125 events = 26.5752372742
+ ZJetsToNuNu events = 0.0
+ Total bkg = 10722.1351738
+Data events = 20320.0
+********************************
+After met cut
+DY events = 2995.33227539
+TT events = 1255.09606934
+F_bkg events = 2848.55371094
+ VV events = 729.272766113
+ ggH125 events = 24.4480609894
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 7852.70288277
+Data events = 15133.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  106707.15802
+VV events = 3802.49435425
+TT events = 5696.81872559
+F_bkg events = 72700.7225342
+Data events = 260112.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  106708.156738
+VV events = 3802.49600983
+TT events = 5696.82674408
+F_bkg events = 72700.7353516
+Data events = 260112.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  106708.110793
+VV events = 3802.49453688
+TT events = 5696.80580366
+F_bkg events = 72700.7276411
+Data events = 260112.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384562592.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383981056.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 412132672.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+F_bkg events = 267453584.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 160546.03125
+VV events = 9143.4765625
+TT events = 45105.25
+F_bkg events = 967791.75
+Data events = 411494.0
+********************************
+opp charge
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+F_bkg events = 77622.9140625
+Data events = 302145.0
+********************************
+delta R
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+F_bkg events = 77622.9140625
+Data events = 302145.0
+********************************
+3rd lepton veto
+DY events = 111946.34375
+VV events = 6328.86328125
+TT events = 32653.3007812
+F_bkg events = 77350.3828125
+Data events = 300123.0
+********************************
+After b-jet veto
+DY events = 106707.59375
+TT events = 5696.80712891
+F_bkg events = 72700.734375
+ VV events = 3802.49365234
+ ggH125 events = 526.701904297
+ ZJetsToNuNu events = 0.0
+ Total bkg = 189434.330811
+Data events = 260112.0
+********************************
+After Higgs pt cut
+DY events = 34182.7460938
+TT events = 4248.76757812
+F_bkg events = 21833.3457031
+ VV events = 2794.609375
+ ggH125 events = 156.368225098
+ ZJetsToNuNu events = 0.0
+ Total bkg = 63215.8369751
+Data events = 148414.0********************************
+After visible mass cut
+DY events = 3673.046875
+TT events = 1937.51818848
+F_bkg events = 3757.26879883
+ VV events = 1062.49536133
+ ggH125 events = 26.5752372742
+ ZJetsToNuNu events = 0.0
+ Total bkg = 10456.9044609
+Data events = 20320.0
+********************************
+After met cut
+DY events = 2995.33227539
+TT events = 1255.09606934
+F_bkg events = 2651.46606445
+ VV events = 729.272766113
+ ggH125 events = 24.4480609894
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 7655.61523628
+Data events = 15133.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  106707.15802
+VV events = 3802.49435425
+TT events = 5696.81872559
+F_bkg events = 93940.4969482
+Data events = 260112.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  106708.156738
+VV events = 3802.49600983
+TT events = 5696.82674408
+F_bkg events = 93940.4907227
+Data events = 260112.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  106708.110793
+VV events = 3802.49453688
+TT events = 5696.80580366
+F_bkg events = 93940.499239
+Data events = 260112.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384562592.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383981056.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 412132672.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+F_bkg events = 267453584.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 160546.03125
+VV events = 9143.4765625
+TT events = 45105.25
+F_bkg events = 967791.75
+Data events = 411494.0
+********************************
+opp charge
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+F_bkg events = 100352.734375
+Data events = 302145.0
+********************************
+delta R
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+F_bkg events = 100352.734375
+Data events = 302145.0
+********************************
+3rd lepton veto
+DY events = 111946.34375
+VV events = 6328.86328125
+TT events = 32653.3007812
+F_bkg events = 99993.9140625
+Data events = 300123.0
+********************************
+After b-jet veto
+DY events = 106707.59375
+TT events = 5696.80712891
+F_bkg events = 93940.5078125
+ VV events = 3802.49365234
+ ggH125 events = 526.701904297
+ ZJetsToNuNu events = 0.0
+ Total bkg = 210674.104248
+Data events = 260112.0
+********************************
+After Higgs pt cut
+DY events = 34182.7460938
+TT events = 4248.76757812
+F_bkg events = 65378.0390625
+ VV events = 2794.609375
+ ggH125 events = 156.368225098
+ ZJetsToNuNu events = 0.0
+ Total bkg = 106760.530334
+Data events = 148414.0********************************
+After visible mass cut
+DY events = 3673.046875
+TT events = 1937.51818848
+F_bkg events = 8445.60839844
+ VV events = 1062.49536133
+ ggH125 events = 26.5752372742
+ ZJetsToNuNu events = 0.0
+ Total bkg = 15145.2440605
+Data events = 20320.0
+********************************
+After met cut
+DY events = 2995.33227539
+TT events = 1255.09606934
+F_bkg events = 6196.52783203
+ VV events = 729.272766113
+ ggH125 events = 24.4480609894
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 11200.6770039
+Data events = 15133.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  106707.15802
+VV events = 3802.49435425
+TT events = 5696.81872559
+F_bkg events = 93940.4969482
+Data events = 260112.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  106708.156738
+VV events = 3802.49600983
+TT events = 5696.82674408
+F_bkg events = 93940.4907227
+Data events = 260112.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  106708.110793
+VV events = 3802.49453688
+TT events = 5696.80580366
+F_bkg events = 93940.499239
+Data events = 260112.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384562592.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383981056.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 412132672.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+F_bkg events = 267453584.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 160546.03125
+VV events = 9143.4765625
+TT events = 45105.25
+F_bkg events = 967791.75
+Data events = 411494.0
+********************************
+opp charge
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+F_bkg events = 100352.734375
+Data events = 302145.0
+********************************
+delta R
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+F_bkg events = 100352.734375
+Data events = 302145.0
+********************************
+3rd lepton veto
+DY events = 111946.34375
+VV events = 6328.86328125
+TT events = 32653.3007812
+F_bkg events = 99993.9140625
+Data events = 300123.0
+********************************
+After b-jet veto
+DY events = 106707.59375
+TT events = 5696.80712891
+F_bkg events = 93940.5078125
+ VV events = 3802.49365234
+ ggH125 events = 526.701904297
+ ZJetsToNuNu events = 0.0
+ Total bkg = 210674.104248
+Data events = 260112.0
+********************************
+After Higgs pt cut
+DY events = 34182.7460938
+TT events = 4248.76757812
+F_bkg events = 65378.0390625
+ VV events = 2794.609375
+ ggH125 events = 156.368225098
+ ZJetsToNuNu events = 0.0
+ Total bkg = 106760.530334
+Data events = 148414.0********************************
+After visible mass cut
+DY events = 3673.046875
+TT events = 1937.51818848
+F_bkg events = 8445.60839844
+ VV events = 1062.49536133
+ ggH125 events = 26.5752372742
+ ZJetsToNuNu events = 0.0
+ Total bkg = 15145.2440605
+Data events = 20320.0
+********************************
+After met cut
+DY events = 2995.33227539
+TT events = 1255.09606934
+F_bkg events = 6196.52783203
+ VV events = 729.272766113
+ ggH125 events = 24.4480609894
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 11200.6770039
+Data events = 15133.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  106707.15802
+VV events = 3802.49435425
+TT events = 5696.81872559
+F_bkg events = 93940.4969482
+Data events = 260112.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  106708.156738
+VV events = 3802.49600983
+TT events = 5696.82674408
+F_bkg events = 93940.4907227
+Data events = 260112.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  106708.110793
+VV events = 3802.49453688
+TT events = 5696.80580366
+F_bkg events = 93940.499239
+Data events = 260112.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384562592.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383981056.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 412132672.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+F_bkg events = 267453584.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 160546.03125
+VV events = 9143.4765625
+TT events = 45105.25
+F_bkg events = 967791.75
+Data events = 411494.0
+********************************
+opp charge
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+F_bkg events = 100352.734375
+Data events = 302145.0
+********************************
+delta R
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+F_bkg events = 100352.734375
+Data events = 302145.0
+********************************
+3rd lepton veto
+DY events = 111946.34375
+VV events = 6328.86328125
+TT events = 32653.3007812
+F_bkg events = 99993.9140625
+Data events = 300123.0
+********************************
+After b-jet veto
+DY events = 106707.59375
+TT events = 5696.80712891
+F_bkg events = 93940.5078125
+ VV events = 3802.49365234
+ ggH125 events = 526.701904297
+ ZJetsToNuNu events = 0.0
+ Total bkg = 210674.104248
+Data events = 260112.0
+********************************
+After Higgs pt cut
+DY events = 34182.7460938
+TT events = 4248.76757812
+F_bkg events = 65378.0390625
+ VV events = 2794.609375
+ ggH125 events = 156.368225098
+ ZJetsToNuNu events = 0.0
+ Total bkg = 106760.530334
+Data events = 148414.0********************************
+After visible mass cut
+DY events = 3673.046875
+TT events = 1937.51818848
+F_bkg events = 8445.60839844
+ VV events = 1062.49536133
+ ggH125 events = 26.5752372742
+ ZJetsToNuNu events = 0.0
+ Total bkg = 15145.2440605
+Data events = 20320.0
+********************************
+After met cut
+DY events = 2995.33227539
+TT events = 1255.09606934
+F_bkg events = 6196.52783203
+ VV events = 729.272766113
+ ggH125 events = 24.4480609894
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 11200.6770039
+Data events = 15133.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  106707.15802
+VV events = 3802.49435425
+TT events = 5696.81872559
+F_bkg events = 93940.4969482
+Data events = 260112.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  106708.156738
+VV events = 3802.49600983
+TT events = 5696.82674408
+F_bkg events = 93940.4907227
+Data events = 260112.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  106708.110793
+VV events = 3802.49453688
+TT events = 5696.80580366
+F_bkg events = 93940.499239
+Data events = 260112.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384562592.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383981056.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 412132672.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+F_bkg events = 267453584.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 160546.03125
+VV events = 9143.4765625
+TT events = 45105.25
+F_bkg events = 967791.75
+Data events = 411494.0
+********************************
+opp charge
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+F_bkg events = 100352.734375
+Data events = 302145.0
+********************************
+delta R
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+F_bkg events = 100352.734375
+Data events = 302145.0
+********************************
+3rd lepton veto
+DY events = 111946.34375
+VV events = 6328.86328125
+TT events = 32653.3007812
+F_bkg events = 99993.9140625
+Data events = 300123.0
+********************************
+After b-jet veto
+DY events = 106707.59375
+TT events = 5696.80712891
+F_bkg events = 93940.5078125
+ VV events = 3802.49365234
+ ggH125 events = 526.701904297
+ ZJetsToNuNu events = 0.0
+ Total bkg = 210674.104248
+Data events = 260112.0
+********************************
+After Higgs pt cut
+DY events = 34182.7460938
+TT events = 4248.76757812
+F_bkg events = 65378.0390625
+ VV events = 2794.609375
+ ggH125 events = 156.368225098
+ ZJetsToNuNu events = 0.0
+ Total bkg = 106760.530334
+Data events = 148414.0********************************
+After visible mass cut
+DY events = 3673.046875
+TT events = 1937.51818848
+F_bkg events = 8445.60839844
+ VV events = 1062.49536133
+ ggH125 events = 26.5752372742
+ ZJetsToNuNu events = 0.0
+ Total bkg = 15145.2440605
+Data events = 20320.0
+********************************
+After met cut
+DY events = 2995.33227539
+TT events = 1255.09606934
+F_bkg events = 6196.52783203
+ VV events = 729.272766113
+ ggH125 events = 24.4480609894
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 11200.6770039
+Data events = 15133.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  106707.15802
+VV events = 3802.49435425
+TT events = 5696.81872559
+F_bkg events = 90988.407959
+Data events = 260112.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  106708.156738
+VV events = 3802.49600983
+TT events = 5696.82674408
+F_bkg events = 90988.4123535
+Data events = 260112.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  106708.110793
+VV events = 3802.49453688
+TT events = 5696.80580366
+F_bkg events = 90988.4214706
+Data events = 260112.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384562592.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383981056.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 412132672.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+F_bkg events = 267453584.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 160546.03125
+VV events = 9143.4765625
+TT events = 45105.25
+F_bkg events = 967791.75
+Data events = 411494.0
+********************************
+opp charge
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+F_bkg events = 96103.1171875
+Data events = 302145.0
+********************************
+delta R
+DY events = 112592.484375
+VV events = 6466.09472656
+TT events = 33463.8320312
+F_bkg events = 96103.1171875
+Data events = 302145.0
+********************************
+3rd lepton veto
+DY events = 111946.34375
+VV events = 6328.86328125
+TT events = 32653.3007812
+F_bkg events = 95823.6328125
+Data events = 300123.0
+********************************
+After b-jet veto
+DY events = 106707.59375
+TT events = 5696.80712891
+F_bkg events = 90988.4296875
+ VV events = 3802.49365234
+ ggH125 events = 526.701904297
+ ZJetsToNuNu events = 0.0
+ Total bkg = 207722.026123
+Data events = 260112.0
+********************************
+After Higgs pt cut
+DY events = 34182.7460938
+TT events = 4248.76757812
+F_bkg events = 63970.1875
+ VV events = 2794.609375
+ ggH125 events = 156.368225098
+ ZJetsToNuNu events = 0.0
+ Total bkg = 105352.678772
+Data events = 148414.0********************************
+After visible mass cut
+DY events = 3673.046875
+TT events = 1937.51818848
+F_bkg events = 8141.66162109
+ VV events = 1062.49536133
+ ggH125 events = 26.5752372742
+ ZJetsToNuNu events = 0.0
+ Total bkg = 14841.2972832
+Data events = 20320.0
+********************************
+After met cut
+DY events = 2995.33227539
+TT events = 1255.09606934
+F_bkg events = 5981.29833984
+ VV events = 729.272766113
+ ggH125 events = 24.4480609894
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 10985.4475117
+Data events = 15133.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  123122.19635
+VV events = 3560.17556
+TT events = 5444.23396301
+F_bkg events = 103087.905273
+Data events = 312961.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  123123.56958
+VV events = 3560.17713928
+TT events = 5444.23908997
+F_bkg events = 103087.928955
+Data events = 312961.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  123123.690949
+VV events = 3560.17572355
+TT events = 5444.22323895
+F_bkg events = 103087.952393
+Data events = 312961.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384562592.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383981056.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 412132672.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+F_bkg events = 267453584.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 196379.078125
+VV events = 11545.0644531
+TT events = 55064.0742188
+F_bkg events = 1101471.375
+Data events = 563818.0
+********************************
+opp charge
+DY events = 136113.59375
+VV events = 8106.85644531
+TT events = 40860.2460938
+F_bkg events = 111952.257812
+Data events = 379843.0
+********************************
+delta R
+DY events = 136106.8125
+VV events = 8106.65234375
+TT events = 40860.2460938
+F_bkg events = 111920.117188
+Data events = 379634.0
+********************************
+3rd lepton veto
+DY events = 131217.203125
+VV events = 6035.57421875
+TT events = 31276.8710938
+F_bkg events = 110669.445312
+Data events = 358813.0
+********************************
+After b-jet veto
+DY events = 123122.914062
+TT events = 5444.22460938
+F_bkg events = 103087.953125
+ VV events = 3560.17431641
+ ggH125 events = 589.677612305
+ ZJetsToNuNu events = 0.0
+ Total bkg = 235804.943726
+Data events = 312961.0
+********************************
+After Higgs pt cut
+DY events = 41365.6171875
+TT events = 4035.59106445
+F_bkg events = 71093.3203125
+ VV events = 2487.87402344
+ ggH125 events = 167.227142334
+ ZJetsToNuNu events = 0.0
+ Total bkg = 119149.62973
+Data events = 178270.0********************************
+After visible mass cut
+DY events = 4853.41210938
+TT events = 1876.31665039
+F_bkg events = 9161.95214844
+ VV events = 867.691955566
+ ggH125 events = 30.446647644
+ ZJetsToNuNu events = 0.0
+ Total bkg = 16789.8195114
+Data events = 23210.0
+********************************
+After met cut
+DY events = 4178.10742188
+TT events = 1222.59631348
+F_bkg events = 6698.96728516
+ VV events = 491.429290771
+ ggH125 events = 28.0626754761
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 12619.1629868
+Data events = 17449.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  123122.19635
+VV events = 3560.17556
+TT events = 5444.23396301
+F_bkg events = 103087.905273
+Data events = 312961.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  123123.56958
+VV events = 3560.17713928
+TT events = 5444.23908997
+F_bkg events = 103087.928955
+Data events = 312961.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  123123.690949
+VV events = 3560.17572355
+TT events = 5444.22323895
+F_bkg events = 103087.952393
+Data events = 312961.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384562592.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383981056.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 412132672.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+F_bkg events = 267453584.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 196379.078125
+VV events = 11545.0644531
+TT events = 55064.0742188
+F_bkg events = 1101471.375
+Data events = 563818.0
+********************************
+opp charge
+DY events = 136113.59375
+VV events = 8106.85644531
+TT events = 40860.2460938
+F_bkg events = 111952.257812
+Data events = 379843.0
+********************************
+delta R
+DY events = 136106.8125
+VV events = 8106.65234375
+TT events = 40860.2460938
+F_bkg events = 111920.117188
+Data events = 379634.0
+********************************
+3rd lepton veto
+DY events = 131217.203125
+VV events = 6035.57421875
+TT events = 31276.8710938
+F_bkg events = 110669.445312
+Data events = 358813.0
+********************************
+After b-jet veto
+DY events = 123122.914062
+TT events = 5444.22460938
+F_bkg events = 103087.953125
+ VV events = 3560.17431641
+ ggH125 events = 589.677612305
+ ZJetsToNuNu events = 0.0
+ Total bkg = 235804.943726
+Data events = 312961.0
+********************************
+After Higgs pt cut
+DY events = 41365.6171875
+TT events = 4035.59106445
+F_bkg events = 71093.3203125
+ VV events = 2487.87402344
+ ggH125 events = 167.227142334
+ ZJetsToNuNu events = 0.0
+ Total bkg = 119149.62973
+Data events = 178270.0********************************
+After visible mass cut
+DY events = 4853.41210938
+TT events = 1876.31665039
+F_bkg events = 9161.95214844
+ VV events = 867.691955566
+ ggH125 events = 30.446647644
+ ZJetsToNuNu events = 0.0
+ Total bkg = 16789.8195114
+Data events = 23210.0
+********************************
+After met cut
+DY events = 4178.10742188
+TT events = 1222.59631348
+F_bkg events = 6698.96728516
+ VV events = 491.429290771
+ ggH125 events = 28.0626754761
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 12619.1629868
+Data events = 17449.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  123122.19635
+VV events = 3560.17556
+TT events = 5444.23396301
+F_bkg events = 103087.905273
+Data events = 312961.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  123123.56958
+VV events = 3560.17713928
+TT events = 5444.23908997
+F_bkg events = 103087.928955
+Data events = 312961.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  123123.690949
+VV events = 3560.17572355
+TT events = 5444.22323895
+F_bkg events = 103087.952393
+Data events = 312961.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384562592.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383981056.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 412132672.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+F_bkg events = 267453584.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 196379.078125
+VV events = 11545.0644531
+TT events = 55064.0742188
+F_bkg events = 1101471.375
+Data events = 563818.0
+********************************
+opp charge
+DY events = 136113.59375
+VV events = 8106.85644531
+TT events = 40860.2460938
+F_bkg events = 111952.257812
+Data events = 379843.0
+********************************
+delta R
+DY events = 136106.8125
+VV events = 8106.65234375
+TT events = 40860.2460938
+F_bkg events = 111920.117188
+Data events = 379634.0
+********************************
+3rd lepton veto
+DY events = 131217.203125
+VV events = 6035.57421875
+TT events = 31276.8710938
+F_bkg events = 110669.445312
+Data events = 358813.0
+********************************
+After b-jet veto
+DY events = 123122.914062
+TT events = 5444.22460938
+F_bkg events = 103087.953125
+ VV events = 3560.17431641
+ ggH125 events = 589.677612305
+ ZJetsToNuNu events = 0.0
+ Total bkg = 235804.943726
+Data events = 312961.0
+********************************
+After Higgs pt cut
+DY events = 41365.6171875
+TT events = 4035.59106445
+F_bkg events = 71093.3203125
+ VV events = 2487.87402344
+ ggH125 events = 167.227142334
+ ZJetsToNuNu events = 0.0
+ Total bkg = 119149.62973
+Data events = 178270.0********************************
+After visible mass cut
+DY events = 4853.41210938
+TT events = 1876.31665039
+F_bkg events = 9161.95214844
+ VV events = 867.691955566
+ ggH125 events = 30.446647644
+ ZJetsToNuNu events = 0.0
+ Total bkg = 16789.8195114
+Data events = 23210.0
+********************************
+After met cut
+DY events = 4178.10742188
+TT events = 1222.59631348
+F_bkg events = 6698.96728516
+ VV events = 491.429290771
+ ggH125 events = 28.0626754761
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 12619.1629868
+Data events = 17449.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  229633.018311
+VV events = 7333.69277954
+TT events = 11122.6141815
+F_bkg events = 297206.686523
+Data events = 572690.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  229632.858643
+VV events = 7333.69241333
+TT events = 11122.6124573
+F_bkg events = 297206.696289
+Data events = 572690.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  229631.37693
+VV events = 7333.69959748
+TT events = 11122.6505179
+F_bkg events = 297206.658287
+Data events = 572690.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384562592.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383981056.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 412132672.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+F_bkg events = 267453584.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 356547.5
+VV events = 20601.2851562
+TT events = 99900.28125
+F_bkg events = 2064057.75
+Data events = 974417.0
+********************************
+opp charge
+DY events = 248498.65625
+VV events = 14530.1484375
+TT events = 74170.4296875
+F_bkg events = 316495.25
+Data events = 681429.0
+********************************
+delta R
+DY events = 248491.875
+VV events = 14529.9453125
+TT events = 74170.4296875
+F_bkg events = 316450.96875
+Data events = 681220.0
+********************************
+3rd lepton veto
+DY events = 242961.8125
+VV events = 12326.9375
+TT events = 63792.28125
+F_bkg events = 314370.15625
+Data events = 658408.0
+********************************
+After b-jet veto
+DY events = 229630.28125
+TT events = 11122.6015625
+F_bkg events = 297206.65625
+ VV events = 7333.69433594
+ ggH125 events = 1113.6036377
+ ZJetsToNuNu events = 0.0
+ Total bkg = 546406.837036
+Data events = 572690.0
+********************************
+After Higgs pt cut
+DY events = 75479.984375
+TT events = 8269.51367188
+F_bkg events = 207931.71875
+ VV events = 5262.22460938
+ ggH125 events = 322.055908203
+ ZJetsToNuNu events = 0.0
+ Total bkg = 297265.497314
+Data events = 326466.0********************************
+After visible mass cut
+DY events = 8514.14257812
+TT events = 3806.44091797
+F_bkg events = 26165.75
+ VV events = 1920.39099121
+ ggH125 events = 56.2013549805
+ ZJetsToNuNu events = 0.0
+ Total bkg = 40462.9258423
+Data events = 43468.0
+********************************
+After met cut
+DY events = 7162.07763672
+TT events = 2471.3828125
+F_bkg events = 19262.9492188
+ VV events = 1213.87719727
+ ggH125 events = 51.8993301392
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 30162.1861954
+Data events = 32533.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  229633.018311
+VV events = 7333.69277954
+TT events = 11122.6141815
+F_bkg events = 297206.686523
+Data events = 572690.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  229632.858643
+VV events = 7333.69241333
+TT events = 11122.6124573
+F_bkg events = 297206.696289
+Data events = 572690.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  229631.37693
+VV events = 7333.69959748
+TT events = 11122.6505179
+F_bkg events = 297206.658287
+Data events = 572690.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384562592.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383981056.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 412132672.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 55852428.0
+VV events = 920846.75
+TT events = 3926382.0
+F_bkg events = 267453584.0
+Data events = 328534048.0
+********************************
+good tau
+DY events = 356547.5
+VV events = 20601.2851562
+TT events = 99900.28125
+F_bkg events = 2064057.75
+Data events = 974417.0
+********************************
+opp charge
+DY events = 248498.65625
+VV events = 14530.1484375
+TT events = 74170.4296875
+F_bkg events = 316495.25
+Data events = 681429.0
+********************************
+delta R
+DY events = 248491.875
+VV events = 14529.9453125
+TT events = 74170.4296875
+F_bkg events = 316450.96875
+Data events = 681220.0
+********************************
+3rd lepton veto
+DY events = 242961.8125
+VV events = 12326.9375
+TT events = 63792.28125
+F_bkg events = 314370.15625
+Data events = 658408.0
+********************************
+After b-jet veto
+DY events = 229630.28125
+TT events = 11122.6015625
+F_bkg events = 297206.65625
+ VV events = 7333.69433594
+ ggH125 events = 1113.6036377
+ ZJetsToNuNu events = 0.0
+ Total bkg = 546406.837036
+Data events = 572690.0
+********************************
+After Higgs pt cut
+DY events = 75479.984375
+TT events = 8269.51367188
+F_bkg events = 207931.71875
+ VV events = 5262.22460938
+ ggH125 events = 322.055908203
+ ZJetsToNuNu events = 0.0
+ Total bkg = 297265.497314
+Data events = 326466.0********************************
+After visible mass cut
+DY events = 8514.14257812
+TT events = 3806.44091797
+F_bkg events = 26165.75
+ VV events = 1920.39099121
+ ggH125 events = 56.2013549805
+ ZJetsToNuNu events = 0.0
+ Total bkg = 40462.9258423
+Data events = 43468.0
+********************************
+After met cut
+DY events = 7162.07763672
+TT events = 2471.3828125
+F_bkg events = 19262.9492188
+ VV events = 1213.87719727
+ ggH125 events = 51.8993301392
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 30162.1861954
+Data events = 32533.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  254443.369995
+VV events = 8341.78518677
+TT events = 12611.638855
+F_bkg events = 310350.75293
+Data events = 581246.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  254440.450195
+VV events = 8341.78620911
+TT events = 12611.6379395
+F_bkg events = 310350.723633
+Data events = 581246.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  254439.819588
+VV events = 8341.78474903
+TT events = 12611.6534278
+F_bkg events = 310350.667099
+Data events = 581246.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384562592.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383981056.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 412132672.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 56403820.0
+VV events = 930662.5
+TT events = 3965116.0
+F_bkg events = 279007808.0
+Data events = 340692640.0
+********************************
+good tau
+DY events = 275929.96875
+VV events = 16487.84375
+TT events = 83981.40625
+F_bkg events = 333789.28125
+Data events = 694544.0
+********************************
+opp charge
+DY events = 275914.5
+VV events = 16487.3046875
+TT events = 83978.359375
+F_bkg events = 333601.125
+Data events = 693989.0
+********************************
+delta R
+DY events = 269607.25
+VV events = 13995.1210938
+TT events = 72206.0703125
+F_bkg events = 331341.65625
+Data events = 670724.0
+********************************
+3rd lepton veto
+DY events = 254439.046875
+VV events = 8341.78027344
+TT events = 12611.6679688
+F_bkg events = 310350.65625
+Data events = 581246.0
+********************************
+After b-jet veto
+DY events = 83451.21875
+TT events = 9368.18164062
+F_bkg events = 214577.46875
+ VV events = 5938.46582031
+ ggH125 events = 368.136871338
+ ZJetsToNuNu events = 0.0
+ Total bkg = 313703.471832
+Data events = 331677.0
+********************************
+After Higgs pt cut
+DY events = 9701.421875
+TT events = 4310.91015625
+F_bkg events = 27258.4082031
+ VV events = 2170.39306641
+ ggH125 events = 64.019493103
+ ZJetsToNuNu events = 0.0
+ Total bkg = 43505.1527939
+Data events = 44783.0********************************
+After visible mass cut
+DY events = 8065.73291016
+TT events = 2798.63110352
+F_bkg events = 19946.2988281
+ VV events = 1371.41357422
+ ggH125 events = 58.7602310181
+ ZJetsToNuNu events = 0.0
+ Total bkg = 32240.836647
+Data events = 33298.0
+********************************
+After met cut
+DY events = 448.605010986
+TT events = 603.10723877
+F_bkg events = 1456.68847656
+ VV events = 235.175109863
+ ggH125 events = 10.7130708694
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 2754.28890705
+Data events = 2787.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  254443.369995
+VV events = 8341.78518677
+TT events = 12611.638855
+F_bkg events = 310350.75293
+Data events = 581246.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  254440.450195
+VV events = 8341.78620911
+TT events = 12611.6379395
+F_bkg events = 310350.723633
+Data events = 581246.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  254439.819588
+VV events = 8341.78474903
+TT events = 12611.6534278
+F_bkg events = 310350.667099
+Data events = 581246.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384562592.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383981056.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 412132672.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 56403820.0
+VV events = 930662.5
+TT events = 3965116.0
+F_bkg events = 279007808.0
+Data events = 340692640.0
+********************************
+good tau
+DY events = 275929.96875
+VV events = 16487.84375
+TT events = 83981.40625
+F_bkg events = 333789.28125
+Data events = 694544.0
+********************************
+opp charge
+DY events = 275914.5
+VV events = 16487.3046875
+TT events = 83978.359375
+F_bkg events = 333601.125
+Data events = 693989.0
+********************************
+delta R
+DY events = 269607.25
+VV events = 13995.1210938
+TT events = 72206.0703125
+F_bkg events = 331341.65625
+Data events = 670724.0
+********************************
+3rd lepton veto
+DY events = 254439.046875
+VV events = 8341.78027344
+TT events = 12611.6679688
+F_bkg events = 310350.65625
+Data events = 581246.0
+********************************
+After b-jet veto
+DY events = 83451.21875
+TT events = 9368.18164062
+F_bkg events = 214577.46875
+ VV events = 5938.46582031
+ ggH125 events = 368.136871338
+ ZJetsToNuNu events = 0.0
+ Total bkg = 313703.471832
+Data events = 331677.0
+********************************
+After Higgs pt cut
+DY events = 9701.421875
+TT events = 4310.91015625
+F_bkg events = 27258.4082031
+ VV events = 2170.39306641
+ ggH125 events = 64.019493103
+ ZJetsToNuNu events = 0.0
+ Total bkg = 43505.1527939
+Data events = 44783.0********************************
+After visible mass cut
+DY events = 8065.73291016
+TT events = 2798.63110352
+F_bkg events = 19946.2988281
+ VV events = 1371.41357422
+ ggH125 events = 58.7602310181
+ ZJetsToNuNu events = 0.0
+ Total bkg = 32240.836647
+Data events = 33298.0
+********************************
+After met cut
+DY events = 448.605010986
+TT events = 603.10723877
+F_bkg events = 1456.68847656
+ VV events = 235.175109863
+ ggH125 events = 10.7130708694
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 2754.28890705
+Data events = 2787.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  254443.369995
+VV events = 8341.78518677
+TT events = 12611.638855
+F_bkg events = 310350.75293
+Data events = 581246.0
+
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  254443.369995
+VV events = 8341.78518677
+TT events = 12611.638855
+F_bkg events = 310350.75293
+Data events = 581246.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  254440.450195
+VV events = 8341.78620911
+TT events = 12611.6379395
+F_bkg events = 310350.723633
+Data events = 581246.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  254439.819588
+VV events = 8341.78474903
+TT events = 12611.6534278
+F_bkg events = 310350.667099
+Data events = 581246.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384562592.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383981056.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 412132672.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 56403820.0
+VV events = 930662.5
+TT events = 3965116.0
+F_bkg events = 279007808.0
+Data events = 340692640.0
+********************************
+good tau
+DY events = 275929.96875
+VV events = 16487.84375
+TT events = 83981.40625
+F_bkg events = 333789.28125
+Data events = 694544.0
+********************************
+opp charge
+DY events = 275914.5
+VV events = 16487.3046875
+TT events = 83978.359375
+F_bkg events = 333601.125
+Data events = 693989.0
+********************************
+delta R
+DY events = 269607.25
+VV events = 13995.1210938
+TT events = 72206.0703125
+F_bkg events = 331341.65625
+Data events = 670724.0
+********************************
+3rd lepton veto
+DY events = 254439.046875
+VV events = 8341.78027344
+TT events = 12611.6679688
+F_bkg events = 310350.65625
+Data events = 581246.0
+********************************
+After b-jet veto
+DY events = 83451.21875
+TT events = 9368.18164062
+F_bkg events = 214577.46875
+ VV events = 5938.46582031
+ ggH125 events = 368.136871338
+ ZJetsToNuNu events = 0.0
+ Total bkg = 313703.471832
+Data events = 331677.0
+********************************
+After Higgs pt cut
+DY events = 9701.421875
+TT events = 4310.91015625
+F_bkg events = 27258.4082031
+ VV events = 2170.39306641
+ ggH125 events = 64.019493103
+ ZJetsToNuNu events = 0.0
+ Total bkg = 43505.1527939
+Data events = 44783.0********************************
+After visible mass cut
+DY events = 8065.73291016
+TT events = 2798.63110352
+F_bkg events = 19946.2988281
+ VV events = 1371.41357422
+ ggH125 events = 58.7602310181
+ ZJetsToNuNu events = 0.0
+ Total bkg = 32240.836647
+Data events = 33298.0
+********************************
+After met cut
+DY events = 448.605010986
+TT events = 603.10723877
+F_bkg events = 1456.68847656
+ VV events = 235.175109863
+ ggH125 events = 10.7130708694
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 2754.28890705
+Data events = 2787.0
+
+**************  histogram name = h_dPhi_3************
+After b-jet veto
+DY events =  254443.369995
+VV events = 8341.78518677
+TT events = 12611.638855
+F_bkg events = 310350.75293
+Data events = 581246.0
+
+
+**************  histogram name = Tau_eta_3************
+After b-jet veto
+DY events =  254440.450195
+VV events = 8341.78620911
+TT events = 12611.6379395
+F_bkg events = 310350.723633
+Data events = 581246.0
+
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  254439.819588
+VV events = 8341.78474903
+TT events = 12611.6534278
+F_bkg events = 310350.667099
+Data events = 581246.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 294801600.0
+VV events = 8388826.0
+TT events = 34528864.0
+F_bkg events = 384562592.0
+Data events = 739815296.0
+********************************
+ passed MET filter
+DY events = 294539904.0
+VV events = 8379147.0
+TT events = 34482492.0
+F_bkg events = 383981056.0
+Data events = 738897664.0
+********************************
+ele trigger
+DY events = 61900936.0
+VV events = 1036807.0
+TT events = 4447874.0
+F_bkg events = 412132672.0
+Data events = 479948384.0
+********************************
+good ele
+DY events = 56403820.0
+VV events = 930662.5
+TT events = 3965116.0
+F_bkg events = 279007808.0
+Data events = 340692640.0
+********************************
+good tau
+DY events = 275929.96875
+VV events = 16487.84375
+TT events = 83981.40625
+F_bkg events = 333789.28125
+Data events = 694544.0
+********************************
+opp charge
+DY events = 275914.5
+VV events = 16487.3046875
+TT events = 83978.359375
+F_bkg events = 333601.125
+Data events = 693989.0
+********************************
+delta R
+DY events = 269607.25
+VV events = 13995.1210938
+TT events = 72206.0703125
+F_bkg events = 331341.65625
+Data events = 670724.0
+********************************
+3rd lepton veto
+DY events = 254439.046875
+VV events = 8341.78027344
+TT events = 12611.6679688
+F_bkg events = 310350.65625
+Data events = 581246.0
+********************************
+After b-jet veto
+DY events = 83451.21875
+TT events = 9368.18164062
+F_bkg events = 214577.46875
+ VV events = 5938.46582031
+ ggH125 events = 368.136871338
+ ZJetsToNuNu events = 0.0
+ Total bkg = 313703.471832
+Data events = 331677.0
+********************************
+After Higgs pt cut
+DY events = 9701.421875
+TT events = 4310.91015625
+F_bkg events = 27258.4082031
+ VV events = 2170.39306641
+ ggH125 events = 64.019493103
+ ZJetsToNuNu events = 0.0
+ Total bkg = 43505.1527939
+Data events = 44783.0********************************
+After visible mass cut
+DY events = 8065.73291016
+TT events = 2798.63110352
+F_bkg events = 19946.2988281
+ VV events = 1371.41357422
+ ggH125 events = 58.7602310181
+ ZJetsToNuNu events = 0.0
+ Total bkg = 32240.836647
+Data events = 33298.0
+********************************
+After met cut
+DY events = 448.605010986
+TT events = 603.10723877
+F_bkg events = 1456.68847656
+ VV events = 235.175109863
+ ggH125 events = 10.7130708694
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 2754.28890705
+Data events = 2787.0

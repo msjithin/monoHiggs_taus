@@ -1,0 +1,97 @@
+
+**************  histogram name = Tau_phi_3************
+After b-jet veto
+DY events =  12770.1132097
+VV events = 303.999659728
+TT events = 463.814739138
+WJets events = 7399.88429675
+Data events = 21280.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 39027184.0
+VV events = 639867.9375
+TT events = 2811223.75
+WJets events = 176456688.0
+Data events = 58984976.0
+********************************
+ passed MET filter
+DY events = 38993444.0
+VV events = 639117.0
+TT events = 2807448.5
+WJets events = 170334928.0
+Data events = 58904576.0
+********************************
+ele trigger
+DY events = 7880072.5
+VV events = 81347.3125
+TT events = 362130.9375
+WJets events = 21999462.0
+Data events = 41576540.0
+********************************
+good ele
+DY events = 7051776.5
+VV events = 72337.625
+TT events = 319672.8125
+WJets events = 17992562.0
+Data events = 26489236.0
+********************************
+good tau
+DY events = 18472.4003906
+VV events = 730.880065918
+TT events = 3672.31738281
+WJets events = 12542.6347656
+Data events = 34454.0
+********************************
+opp charge
+DY events = 13360.5869141
+VV events = 520.408874512
+TT events = 2724.51269531
+WJets events = 7677.23583984
+Data events = 24598.0
+********************************
+delta R
+DY events = 13360.5869141
+VV events = 520.408874512
+TT events = 2724.51269531
+WJets events = 7677.23583984
+Data events = 24598.0
+********************************
+3rd lepton veto
+DY events = 13295.109375
+VV events = 509.459899902
+TT events = 2658.52197266
+WJets events = 7652.88134766
+Data events = 24421.0
+********************************
+After b-jet veto
+DY events = 12770.0419922
+TT events = 463.814819336
+WJets events = 7399.88427734
+ VV events = 303.999572754
+ ggH125 events = 42.2063026428
+ ZJetsToNuNu events = 0.0
+ Total bkg = 20979.9469643
+Data events = 21280.0
+********************************
+After visible mass cut
+DY events = 931.84375
+TT events = 136.607452393
+WJets events = 627.045410156
+ VV events = 76.5522918701
+ ggH125 events = 6.85288381577
+ ZJetsToNuNu events = 0.0
+ Total bkg = 1778.90178823
+Data events = 1903.0
+********************************
+After met cut
+DY events = 139.103683472
+TT events = 27.4505252838
+WJets events = 34.5318946838
+ VV events = 12.1313819885
+ ggH125 events = 1.74932265282
+ ZJetsToNuNu events = 0.0
+
+ Total bkg = 214.966808081
+Data events = 220.0

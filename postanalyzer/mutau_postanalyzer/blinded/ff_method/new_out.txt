@@ -1,0 +1,686 @@
+0
+[?1034hlength =  5
+Item / histogram name =  Tau_Pt_0
+thirdarg =  pT tau
+WJets inclusive events    124009.94558
+WJets 100-200 events    25317.2812707
+WJets 200-400 events    3991.66892052
+WJets 400-600 events    356.482330322
+WJets 600-800 events    96.9016333222
+WJets 800-1200 events    35.0326416269
+WJets 1200-2500 events    6.74560378399
+WJets 2500-Inf events    0.140733348128
+[?1034hlength =  5
+Item / histogram name =  Muon_Pt_0
+thirdarg =  pT mu
+WJets inclusive events    124009.70639
+WJets 100-200 events    25317.3482974
+WJets 200-400 events    3991.67337418
+WJets 400-600 events    356.481713295
+WJets 600-800 events    96.9016398191
+WJets 800-1200 events    35.0326495171
+WJets 1200-2500 events    6.74560964108
+WJets 2500-Inf events    0.140733410488
+[?1034hlength =  5
+Item / histogram name =  leadingJetPt_0
+thirdarg =  pT jet
+WJets inclusive events    0.0
+WJets 100-200 events    0.0
+WJets 200-400 events    0.0
+WJets 400-600 events    0.0
+WJets 600-800 events    0.0
+WJets 800-1200 events    0.0
+WJets 1200-2500 events    0.0
+WJets 2500-Inf events    0.0
+[?1034hlength =  5
+Item / histogram name =  h_dPhi_0
+thirdarg =  #Delta phi
+WJets inclusive events    124009.834961
+WJets 100-200 events    25317.3869019
+WJets 200-400 events    3991.66604614
+WJets 400-600 events    356.481783867
+WJets 600-800 events    96.9016342163
+WJets 800-1200 events    35.0326448679
+WJets 1200-2500 events    6.74560874701
+WJets 2500-Inf events    0.140733375214
+[?1034hlength =  5
+Item / histogram name =  VisibleMass_0
+thirdarg =  m_{vis} _
+WJets inclusive events    124009.819946
+WJets 100-200 events    25317.4004364
+WJets 200-400 events    3991.66690159
+WJets 400-600 events    356.481644392
+WJets 600-800 events    96.9016284347
+WJets 800-1200 events    35.032650914
+WJets 1200-2500 events    6.74560869113
+WJets 2500-Inf events    0.140733379143
+[?1034hlength =  5
+Item / histogram name =  pfMET_0
+thirdarg =  MET _
+WJets inclusive events    124009.828659
+WJets 100-200 events    25317.414968
+WJets 200-400 events    3991.67973447
+WJets 400-600 events    356.481659412
+WJets 600-800 events    96.9016179889
+WJets 800-1200 events    35.0326464847
+WJets 1200-2500 events    6.74560786784
+WJets 2500-Inf events    0.140733385342
+[?1034hlength =  5
+Item / histogram name =  HiggsPt_0
+thirdarg =  pT vector sum
+WJets inclusive events    124009.854843
+WJets 100-200 events    25317.4407933
+WJets 200-400 events    3991.66422653
+WJets 400-600 events    356.481691837
+WJets 600-800 events    96.9016649127
+WJets 800-1200 events    35.0326630473
+WJets 1200-2500 events    6.74561014399
+WJets 2500-Inf events    0.140733368404
+[?1034hlength =  5
+Item / histogram name =  Mt_0
+thirdarg =  mu-met  transverse mass
+WJets inclusive events    124009.882889
+WJets 100-200 events    25317.4031634
+WJets 200-400 events    3991.67829806
+WJets 400-600 events    356.481594101
+WJets 600-800 events    96.9016173035
+WJets 800-1200 events    35.032644514
+WJets 1200-2500 events    6.74560847948
+WJets 2500-Inf events    0.140733404471
+[?1034hlength =  5
+Item / histogram name =  Tau_eta_0
+thirdarg =  tau #eta
+WJets inclusive events    124009.849487
+WJets 100-200 events    25317.3942871
+WJets 200-400 events    3991.66481018
+WJets 400-600 events    356.481753349
+WJets 600-800 events    96.9016318321
+WJets 800-1200 events    35.032645762
+WJets 1200-2500 events    6.74560828507
+WJets 2500-Inf events    0.140733376844
+[?1034hlength =  5
+Item / histogram name =  Muon_eta_0
+thirdarg =  mu #eta
+WJets inclusive events    124009.820801
+WJets 100-200 events    25317.3973389
+WJets 200-400 events    3991.66703796
+WJets 400-600 events    356.481767654
+WJets 600-800 events    96.9016315937
+WJets 800-1200 events    35.0326452255
+WJets 1200-2500 events    6.74560894072
+WJets 2500-Inf events    0.140733387321
+[?1034hlength =  5
+Item / histogram name =  Tau_phi_0
+thirdarg =  tau #phi
+WJets inclusive events    124009.80127
+WJets 100-200 events    25317.3894892
+WJets 200-400 events    3991.66630983
+WJets 400-600 events    356.481757164
+WJets 600-800 events    96.9016342163
+WJets 800-1200 events    35.0326448679
+WJets 1200-2500 events    6.74560850207
+WJets 2500-Inf events    0.140733374894
+[?1034hlength =  5
+Item / histogram name =  Muon_phi_0
+thirdarg =  mu #phi
+WJets inclusive events    124009.800781
+WJets 100-200 events    25317.3884115
+WJets 200-400 events    3991.66606116
+WJets 400-600 events    356.481762201
+WJets 600-800 events    96.9016354084
+WJets 800-1200 events    35.0326463878
+WJets 1200-2500 events    6.74560868111
+WJets 2500-Inf events    0.140733381733
+[?1034hlength =  5
+Item / histogram name =  nVtx_0
+thirdarg =  npv  
+WJets inclusive events    124009.84256
+WJets 100-200 events    25317.4082515
+WJets 200-400 events    3991.67026192
+WJets 400-600 events    356.481634557
+WJets 600-800 events    96.9016210251
+WJets 800-1200 events    35.0326465089
+WJets 1200-2500 events    6.74560840335
+WJets 2500-Inf events    0.140733374399
+1
+[?1034hlength =  5
+Item / histogram name =  Tau_Pt_1
+thirdarg =  pT tau
+WJets inclusive events    124009.94558
+WJets 100-200 events    25317.2812707
+WJets 200-400 events    3991.66892052
+WJets 400-600 events    356.482330322
+WJets 600-800 events    96.9016333222
+WJets 800-1200 events    35.0326416269
+WJets 1200-2500 events    6.74560378399
+WJets 2500-Inf events    0.140733348128
+[?1034hlength =  5
+Item / histogram name =  Muon_Pt_1
+thirdarg =  pT mu
+WJets inclusive events    124009.70639
+WJets 100-200 events    25317.3482974
+WJets 200-400 events    3991.67337418
+WJets 400-600 events    356.481713295
+WJets 600-800 events    96.9016398191
+WJets 800-1200 events    35.0326495171
+WJets 1200-2500 events    6.74560964108
+WJets 2500-Inf events    0.140733410488
+[?1034hlength =  5
+Item / histogram name =  leadingJetPt_1
+thirdarg =  pT jet
+WJets inclusive events    0.0
+WJets 100-200 events    0.0
+WJets 200-400 events    0.0
+WJets 400-600 events    0.0
+WJets 600-800 events    0.0
+WJets 800-1200 events    0.0
+WJets 1200-2500 events    0.0
+WJets 2500-Inf events    0.0
+[?1034hlength =  5
+Item / histogram name =  h_dPhi_1
+thirdarg =  #Delta phi
+WJets inclusive events    124009.834961
+WJets 100-200 events    25317.3869019
+WJets 200-400 events    3991.66604614
+WJets 400-600 events    356.481783867
+WJets 600-800 events    96.9016342163
+WJets 800-1200 events    35.0326448679
+WJets 1200-2500 events    6.74560874701
+WJets 2500-Inf events    0.140733375214
+[?1034hlength =  5
+Item / histogram name =  VisibleMass_1
+thirdarg =  m_{vis} _
+WJets inclusive events    124009.819946
+WJets 100-200 events    25317.4004364
+WJets 200-400 events    3991.66690159
+WJets 400-600 events    356.481644392
+WJets 600-800 events    96.9016284347
+WJets 800-1200 events    35.032650914
+WJets 1200-2500 events    6.74560869113
+WJets 2500-Inf events    0.140733379143
+[?1034hlength =  5
+Item / histogram name =  pfMET_1
+thirdarg =  MET _
+WJets inclusive events    124009.828659
+WJets 100-200 events    25317.414968
+WJets 200-400 events    3991.67973447
+WJets 400-600 events    356.481659412
+WJets 600-800 events    96.9016179889
+WJets 800-1200 events    35.0326464847
+WJets 1200-2500 events    6.74560786784
+WJets 2500-Inf events    0.140733385342
+[?1034hlength =  5
+Item / histogram name =  HiggsPt_1
+thirdarg =  pT vector sum
+WJets inclusive events    124009.854843
+WJets 100-200 events    25317.4407933
+WJets 200-400 events    3991.66422653
+WJets 400-600 events    356.481691837
+WJets 600-800 events    96.9016649127
+WJets 800-1200 events    35.0326630473
+WJets 1200-2500 events    6.74561014399
+WJets 2500-Inf events    0.140733368404
+[?1034hlength =  5
+Item / histogram name =  Mt_1
+thirdarg =  mu-met  transverse mass
+WJets inclusive events    124009.882889
+WJets 100-200 events    25317.4031634
+WJets 200-400 events    3991.67829806
+WJets 400-600 events    356.481594101
+WJets 600-800 events    96.9016173035
+WJets 800-1200 events    35.032644514
+WJets 1200-2500 events    6.74560847948
+WJets 2500-Inf events    0.140733404471
+[?1034hlength =  5
+Item / histogram name =  Tau_eta_1
+thirdarg =  tau #eta
+WJets inclusive events    124009.849487
+WJets 100-200 events    25317.3942871
+WJets 200-400 events    3991.66481018
+WJets 400-600 events    356.481753349
+WJets 600-800 events    96.9016318321
+WJets 800-1200 events    35.032645762
+WJets 1200-2500 events    6.74560828507
+WJets 2500-Inf events    0.140733376844
+[?1034hlength =  5
+Item / histogram name =  Muon_eta_1
+thirdarg =  mu #eta
+WJets inclusive events    124009.820801
+WJets 100-200 events    25317.3973389
+WJets 200-400 events    3991.66703796
+WJets 400-600 events    356.481767654
+WJets 600-800 events    96.9016315937
+WJets 800-1200 events    35.0326452255
+WJets 1200-2500 events    6.74560894072
+WJets 2500-Inf events    0.140733387321
+[?1034hlength =  5
+Item / histogram name =  Tau_phi_1
+thirdarg =  tau #phi
+WJets inclusive events    124009.80127
+WJets 100-200 events    25317.3894892
+WJets 200-400 events    3991.66630983
+WJets 400-600 events    356.481757164
+WJets 600-800 events    96.9016342163
+WJets 800-1200 events    35.0326448679
+WJets 1200-2500 events    6.74560850207
+WJets 2500-Inf events    0.140733374894
+[?1034hlength =  5
+Item / histogram name =  Muon_phi_1
+thirdarg =  mu #phi
+WJets inclusive events    124009.800781
+WJets 100-200 events    25317.3884115
+WJets 200-400 events    3991.66606116
+WJets 400-600 events    356.481762201
+WJets 600-800 events    96.9016354084
+WJets 800-1200 events    35.0326463878
+WJets 1200-2500 events    6.74560868111
+WJets 2500-Inf events    0.140733381733
+[?1034hlength =  5
+Item / histogram name =  nVtx_1
+thirdarg =  npv  
+WJets inclusive events    124009.84256
+WJets 100-200 events    25317.4082515
+WJets 200-400 events    3991.67026192
+WJets 400-600 events    356.481634557
+WJets 600-800 events    96.9016210251
+WJets 800-1200 events    35.0326465089
+WJets 1200-2500 events    6.74560840335
+WJets 2500-Inf events    0.140733374399
+2
+[?1034hlength =  5
+Item / histogram name =  Tau_Pt_2
+thirdarg =  pT tau
+WJets inclusive events    123679.145775
+WJets 100-200 events    25193.0824182
+WJets 200-400 events    3968.79631615
+WJets 400-600 events    354.303794861
+WJets 600-800 events    96.219387114
+WJets 800-1200 events    34.6868744865
+WJets 1200-2500 events    6.68284769263
+WJets 2500-Inf events    0.139501487759
+[?1034hlength =  5
+Item / histogram name =  Muon_Pt_2
+thirdarg =  pT mu
+WJets inclusive events    123678.905609
+WJets 100-200 events    25193.1491854
+WJets 200-400 events    3968.80051041
+WJets 400-600 events    354.303199768
+WJets 600-800 events    96.219401598
+WJets 800-1200 events    34.6868822873
+WJets 1200-2500 events    6.68285340071
+WJets 2500-Inf events    0.139501541271
+[?1034hlength =  5
+Item / histogram name =  leadingJetPt_2
+thirdarg =  pT jet
+WJets inclusive events    0.0
+WJets 100-200 events    0.0
+WJets 200-400 events    0.0
+WJets 400-600 events    0.0
+WJets 600-800 events    0.0
+WJets 800-1200 events    0.0
+WJets 1200-2500 events    0.0
+WJets 2500-Inf events    0.0
+[?1034hlength =  5
+Item / histogram name =  h_dPhi_2
+thirdarg =  #Delta phi
+WJets inclusive events    123679.032715
+WJets 100-200 events    25193.1873169
+WJets 200-400 events    3968.79321289
+WJets 400-600 events    354.303265572
+WJets 600-800 events    96.2193958759
+WJets 800-1200 events    34.6868786812
+WJets 1200-2500 events    6.68285280466
+WJets 2500-Inf events    0.139501506463
+[?1034hlength =  5
+Item / histogram name =  VisibleMass_2
+thirdarg =  m_{vis} _
+WJets inclusive events    123679.017212
+WJets 100-200 events    25193.2000427
+WJets 200-400 events    3968.79397106
+WJets 400-600 events    354.303130388
+WJets 600-800 events    96.2193894982
+WJets 800-1200 events    34.6868824922
+WJets 1200-2500 events    6.68285266683
+WJets 2500-Inf events    0.13950151109
+[?1034hlength =  5
+Item / histogram name =  pfMET_2
+thirdarg =  MET _
+WJets inclusive events    123679.027817
+WJets 100-200 events    25193.2141623
+WJets 200-400 events    3968.80697751
+WJets 400-600 events    354.303141117
+WJets 600-800 events    96.2193808407
+WJets 800-1200 events    34.6868800595
+WJets 1200-2500 events    6.68285177648
+WJets 2500-Inf events    0.139501517522
+[?1034hlength =  5
+Item / histogram name =  HiggsPt_2
+thirdarg =  pT vector sum
+WJets inclusive events    123679.051132
+WJets 100-200 events    25193.2401555
+WJets 200-400 events    3968.79153061
+WJets 400-600 events    354.303170681
+WJets 600-800 events    96.2194259763
+WJets 800-1200 events    34.6868979335
+WJets 1200-2500 events    6.68285426125
+WJets 2500-Inf events    0.13950149779
+[?1034hlength =  5
+Item / histogram name =  Mt_2
+thirdarg =  mu-met  transverse mass
+WJets inclusive events    123679.086014
+WJets 100-200 events    25193.2049975
+WJets 200-400 events    3968.80514055
+WJets 400-600 events    354.303076759
+WJets 600-800 events    96.2193739563
+WJets 800-1200 events    34.6868771352
+WJets 1200-2500 events    6.68285265635
+WJets 2500-Inf events    0.139501533391
+[?1034hlength =  5
+Item / histogram name =  Tau_eta_2
+thirdarg =  tau #eta
+WJets inclusive events    123679.046265
+WJets 100-200 events    25193.1942444
+WJets 200-400 events    3968.79206085
+WJets 400-600 events    354.303233147
+WJets 600-800 events    96.2193908691
+WJets 800-1200 events    34.6868785024
+WJets 1200-2500 events    6.68285234272
+WJets 2500-Inf events    0.139501508093
+[?1034hlength =  5
+Item / histogram name =  Muon_eta_2
+thirdarg =  mu #eta
+WJets inclusive events    123679.019531
+WJets 100-200 events    25193.1978149
+WJets 200-400 events    3968.79423523
+WJets 400-600 events    354.303249359
+WJets 600-800 events    96.2193906307
+WJets 800-1200 events    34.6868788004
+WJets 1200-2500 events    6.68285290897
+WJets 2500-Inf events    0.139501520433
+[?1034hlength =  5
+Item / histogram name =  Tau_phi_2
+thirdarg =  tau #phi
+WJets inclusive events    123679.000488
+WJets 100-200 events    25193.1889277
+WJets 200-400 events    3968.79343081
+WJets 400-600 events    354.303235054
+WJets 600-800 events    96.2193946838
+WJets 800-1200 events    34.6868780851
+WJets 1200-2500 events    6.68285267893
+WJets 2500-Inf events    0.139501505677
+[?1034hlength =  5
+Item / histogram name =  Muon_phi_2
+thirdarg =  mu #phi
+WJets inclusive events    123678.999023
+WJets 100-200 events    25193.1883383
+WJets 200-400 events    3968.79325843
+WJets 400-600 events    354.303240091
+WJets 600-800 events    96.2193963528
+WJets 800-1200 events    34.6868794858
+WJets 1200-2500 events    6.68285276857
+WJets 2500-Inf events    0.139501512516
+[?1034hlength =  5
+Item / histogram name =  nVtx_2
+thirdarg =  npv  
+WJets inclusive events    123679.040314
+WJets 100-200 events    25193.2077968
+WJets 200-400 events    3968.79740006
+WJets 400-600 events    354.303113282
+WJets 600-800 events    96.2193806581
+WJets 800-1200 events    34.6868799645
+WJets 1200-2500 events    6.68285255041
+WJets 2500-Inf events    0.139501505415
+3
+[?1034hlength =  5
+Item / histogram name =  Tau_Pt_3
+thirdarg =  pT tau
+WJets inclusive events    120702.219505
+WJets 100-200 events    23723.0493028
+WJets 200-400 events    3589.46116447
+WJets 400-600 events    305.673204422
+WJets 600-800 events    80.6423654556
+WJets 800-1200 events    28.5264138654
+WJets 1200-2500 events    5.36157909688
+WJets 2500-Inf events    0.105739994593
+[?1034hlength =  5
+Item / histogram name =  Muon_Pt_3
+thirdarg =  pT mu
+WJets inclusive events    120701.984955
+WJets 100-200 events    23723.0963118
+WJets 200-400 events    3589.46154976
+WJets 400-600 events    305.672865629
+WJets 600-800 events    80.6423846483
+WJets 800-1200 events    28.5264070034
+WJets 1200-2500 events    5.36158186942
+WJets 2500-Inf events    0.105740032275
+[?1034hlength =  5
+Item / histogram name =  leadingJetPt_3
+thirdarg =  pT jet
+WJets inclusive events    0.0
+WJets 100-200 events    0.0
+WJets 200-400 events    0.0
+WJets 400-600 events    0.0
+WJets 600-800 events    0.0
+WJets 800-1200 events    0.0
+WJets 1200-2500 events    0.0
+WJets 2500-Inf events    0.0
+[?1034hlength =  5
+Item / histogram name =  h_dPhi_3
+thirdarg =  #Delta phi
+WJets inclusive events    120702.110474
+WJets 100-200 events    23723.1330872
+WJets 200-400 events    3589.45761871
+WJets 400-600 events    305.672876358
+WJets 600-800 events    80.6423707008
+WJets 800-1200 events    28.5264066458
+WJets 1200-2500 events    5.36158168316
+WJets 2500-Inf events    0.105740020052
+sameple  h_dPhi_3
+After b-jet veto 
+DY events =  106707.15802
+VV events =  3802.49435425
+TT events =  5696.81872559
+WJets events =  149152.743164
+Data events =  260112.0
+[?1034hlength =  5
+Item / histogram name =  VisibleMass_3
+thirdarg =  m_{vis} _
+WJets inclusive events    120702.098572
+WJets 100-200 events    23723.1467667
+WJets 200-400 events    3589.45752096
+WJets 400-600 events    305.672803104
+WJets 600-800 events    80.6423601359
+WJets 800-1200 events    28.5264030658
+WJets 1200-2500 events    5.36158165522
+WJets 2500-Inf events    0.105740025378
+[?1034hlength =  5
+Item / histogram name =  pfMET_3
+thirdarg =  MET _
+WJets inclusive events    120702.111557
+WJets 100-200 events    23723.1630054
+WJets 200-400 events    3589.46852612
+WJets 400-600 events    305.672820091
+WJets 600-800 events    80.642361626
+WJets 800-1200 events    28.5264069512
+WJets 1200-2500 events    5.36158162355
+WJets 2500-Inf events    0.105740023195
+[?1034hlength =  5
+Item / histogram name =  HiggsPt_3
+thirdarg =  pT vector sum
+WJets inclusive events    120702.138367
+WJets 100-200 events    23723.1785409
+WJets 200-400 events    3589.4565258
+WJets 400-600 events    305.67280972
+WJets 600-800 events    80.642388016
+WJets 800-1200 events    28.5264198035
+WJets 1200-2500 events    5.36158213392
+WJets 2500-Inf events    0.105740025989
+[?1034hlength =  5
+Item / histogram name =  Mt_3
+thirdarg =  mu-met  transverse mass
+WJets inclusive events    120702.155334
+WJets 100-200 events    23723.1594768
+WJets 200-400 events    3589.46547896
+WJets 400-600 events    305.672824159
+WJets 600-800 events    80.6423659772
+WJets 800-1200 events    28.5264053531
+WJets 1200-2500 events    5.36158158141
+WJets 2500-Inf events    0.105740028055
+[?1034hlength =  5
+Item / histogram name =  Tau_eta_3
+thirdarg =  tau #eta
+WJets inclusive events    120702.120239
+WJets 100-200 events    23723.1341553
+WJets 200-400 events    3589.45678711
+WJets 400-600 events    305.672944546
+WJets 600-800 events    80.6423726082
+WJets 800-1200 events    28.5264064074
+WJets 1200-2500 events    5.36158172041
+WJets 2500-Inf events    0.105740018422
+sameple  Tau_eta_3
+After b-jet veto 
+DY events =  106708.156738
+VV events =  3802.49600983
+TT events =  5696.82674408
+WJets events =  149152.756836
+Data events =  260112.0
+[?1034hlength =  5
+Item / histogram name =  Muon_eta_3
+thirdarg =  mu #eta
+WJets inclusive events    120702.095703
+WJets 100-200 events    23723.1443481
+WJets 200-400 events    3589.45817566
+WJets 400-600 events    305.672935486
+WJets 600-800 events    80.6423697472
+WJets 800-1200 events    28.5264080763
+WJets 1200-2500 events    5.36158169806
+WJets 2500-Inf events    0.105740012485
+[?1034hlength =  5
+Item / histogram name =  Tau_phi_3
+thirdarg =  tau #phi
+WJets inclusive events    120702.080566
+WJets 100-200 events    23723.1400995
+WJets 200-400 events    3589.45770693
+WJets 400-600 events    305.672859192
+WJets 600-800 events    80.6423709393
+WJets 800-1200 events    28.5264071226
+WJets 1200-2500 events    5.36158145312
+WJets 2500-Inf events    0.105740021128
+sameple  Tau_phi_3
+After b-jet veto 
+DY events =  106708.110793
+VV events =  3802.49453688
+TT events =  5696.80580366
+WJets events =  149152.722829
+Data events =  260112.0
+[?1034hlength =  5
+Item / histogram name =  Muon_phi_3
+thirdarg =  mu #phi
+WJets inclusive events    120702.081055
+WJets 100-200 events    23723.1376791
+WJets 200-400 events    3589.45768714
+WJets 400-600 events    305.672850877
+WJets 600-800 events    80.6423695087
+WJets 800-1200 events    28.526406616
+WJets 1200-2500 events    5.36158178118
+WJets 2500-Inf events    0.105740017258
+[?1034hlength =  5
+Item / histogram name =  nVtx_3
+thirdarg =  npv  
+WJets inclusive events    120702.123077
+WJets 100-200 events    23723.158613
+WJets 200-400 events    3589.46048337
+WJets 400-600 events    305.672775775
+WJets 600-800 events    80.642360989
+WJets 800-1200 events    28.5264086295
+WJets 1200-2500 events    5.36158182565
+WJets 2500-Inf events    0.10574002174
+[?1034hlength =  7
+Item / histogram name =  Events_level_
+thirdarg =  events eachlevel
+WJets inclusive events    5641266450.55
+WJets 100-200 events    160767538.318
+WJets 200-400 events    42809096.5448
+WJets 400-600 events    5868519.0736
+WJets 600-800 events    1468278.45352
+WJets 800-1200 events    670931.396622
+WJets 1200-2500 events    160063.3339
+WJets 2500-Inf events    3780.74841361
+Initial 
+DY events =  294801600.0
+VV events =  8388826.0
+TT events =  34528864.0
+WJets events =  2646435328.0
+Data events =  739815296.0
+After b-jet veto 
+DY events =  106707.59375
+VV events =  3802.49365234
+TT events =  5696.80712891
+WJets events =  149152.78125
+Data events =  260112.0
+[?1034hlength =  7
+Item / histogram name =  Cutflow_
+thirdarg =  events eachlevel
+WJets inclusive events    309770866.711
+WJets 100-200 events    12815640.7656
+WJets 200-400 events    3036337.50244
+WJets 400-600 events    437218.488708
+WJets 600-800 events    131884.800331
+WJets 800-1200 events    59706.7602177
+WJets 1200-2500 events    14068.9464593
+WJets 2500-Inf events    329.926948085
+[?1034hlength =  5
+Item / histogram name =  MET_0
+thirdarg =  MET _
+WJets inclusive events    2466297136.52
+WJets 100-200 events    68312734.7353
+WJets 200-400 events    18289713.7273
+WJets 400-600 events    2491106.78166
+WJets 600-800 events    614106.125038
+WJets 800-1200 events    282111.562012
+WJets 1200-2500 events    68340.94104
+WJets 2500-Inf events    1701.3145752
+[?1034hlength =  5
+Item / histogram name =  MET_1
+thirdarg =  MET _
+WJets inclusive events    2462934374.73
+WJets 100-200 events    68141377.2375
+WJets 200-400 events    18211717.06
+WJets 400-600 events    2471396.04338
+WJets 600-800 events    606256.737968
+WJets 800-1200 events    276114.478638
+WJets 1200-2500 events    65272.5339966
+WJets 2500-Inf events    1499.42854881
+[?1034hlength =  5
+Item / histogram name =  MET_2
+thirdarg =  MET _
+WJets inclusive events    313901046.036
+WJets 100-200 events    11595070.6547
+WJets 200-400 events    3317629.47819
+WJets 400-600 events    479389.933174
+WJets 600-800 events    119510.416116
+WJets 800-1200 events    55168.2280273
+WJets 1200-2500 events    13274.290741
+WJets 2500-Inf events    318.473437309
+[?1034hlength =  5
+Item / histogram name =  MET_3
+thirdarg =  MET _
+WJets inclusive events    634038356.232
+WJets 100-200 events    25934901.5472
+WJets 200-400 events    6091080.90605
+WJets 400-600 events    880657.303338
+WJets 600-800 events    266303.701103
+WJets 800-1200 events    120777.404053
+WJets 1200-2500 events    28543.6565552
+WJets 2500-Inf events    671.180364609
+[?1034hlength =  5
+Item / histogram name =  MET_4
+thirdarg =  MET _
+WJets inclusive events    681725.021454
+WJets 100-200 events    138299.237624
+WJets 200-400 events    26696.7794266
+WJets 400-600 events    2735.26910019
+WJets 600-800 events    715.314073324
+WJets 800-1200 events    289.680175781
+WJets 1200-2500 events    61.1109011769
+WJets 2500-Inf events    1.36571339797

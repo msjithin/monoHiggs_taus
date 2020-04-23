@@ -1,0 +1,139 @@
+
+**************  histogram name = Electron_phi_3************
+After b-jet veto
+DY events =  90496.6196404
+VV events = 2572.22052325
+TT events = 11491.9511567
+WJets events = 42440.157218
+Data events = 113847.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 680026624.0
+VV events = 7859179.0
+TT events = 103606528.0
+WJets events = 2167329792.0
+Data events = 1437657216.0
+********************************
+ passed MET filter
+DY events = 679398080.0
+VV events = 7849954.5
+TT events = 103466232.0
+WJets events = 2092139392.0
+Data events = 1435573504.0
+********************************
+ele trigger
+DY events = 100814248.0
+VV events = 732842.875
+TT events = 10173008.0
+WJets events = 141824400.0
+Data events = 265378992.0
+********************************
+good ele
+DY events = 63589340.0
+VV events = 519469.0625
+TT events = 7537876.0
+WJets events = 57051864.0
+Data events = 109463592.0
+********************************
+good tau
+DY events = 128670.625
+VV events = 5059.33007812
+TT events = 75989.46875
+WJets events = 57964.9296875
+Data events = 187616.0
+********************************
+opp charge
+DY events = 96176.890625
+VV events = 4251.92285156
+TT events = 67028.6875
+WJets events = 44208.359375
+Data events = 139277.0
+********************************
+delta R
+DY events = 96176.890625
+VV events = 4251.92285156
+TT events = 67028.6875
+WJets events = 44208.359375
+Data events = 139268.0
+********************************
+3rd lepton veto
+DY events = 95938.2265625
+VV events = 4175.80419922
+TT events = 65350.40625
+WJets events = 44098.6328125
+Data events = 138188.0
+********************************
+After b-jet veto
+DY events = 90496.6328125
+VV events = 2572.22070312
+TT events = 11491.9511719
+WJets events = 42440.1523438
+Data events = 113847.0
+
+
+*************  From cut flow *************
+Initial
+DY events = 680026624.0
+VV events = 7859179.0
+TT events = 103606528.0
+WJets events = 2167329792.0
+Data events = 1437657216.0
+********************************
+ passed MET filter
+DY events = 679398080.0
+VV events = 7849954.5
+TT events = 103466232.0
+WJets events = 2092139392.0
+Data events = 1435573504.0
+********************************
+ele trigger
+DY events = 100814248.0
+VV events = 732842.875
+TT events = 10173008.0
+WJets events = 141824400.0
+Data events = 265378992.0
+********************************
+good ele
+DY events = 63589340.0
+VV events = 519469.0625
+TT events = 7537876.0
+WJets events = 57051864.0
+Data events = 109463592.0
+********************************
+good tau
+DY events = 128670.625
+VV events = 5059.33007812
+TT events = 75989.46875
+WJets events = 57964.9296875
+Data events = 187616.0
+********************************
+opp charge
+DY events = 96176.890625
+VV events = 4251.92285156
+TT events = 67028.6875
+WJets events = 44208.359375
+Data events = 139277.0
+********************************
+delta R
+DY events = 96176.890625
+VV events = 4251.92285156
+TT events = 67028.6875
+WJets events = 44208.359375
+Data events = 139268.0
+********************************
+3rd lepton veto
+DY events = 95938.2265625
+VV events = 4175.80419922
+TT events = 65350.40625
+WJets events = 44098.6328125
+Data events = 138188.0
+********************************
+After b-jet veto
+DY events = 90496.6328125
+VV events = 2572.22070312
+TT events = 11491.9511719
+WJets events = 42440.1523438
+Data events = 113847.0
+

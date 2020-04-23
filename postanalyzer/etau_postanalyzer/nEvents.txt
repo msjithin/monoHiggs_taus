@@ -1,0 +1,30 @@
+ Sample name : Number of events  luminosity          
+ DY1JetsToLL:  34312152     44980         
+ Sample name : Number of events  luminosity          
+ DY2JetsToLL:   9524923     44980         
+ Sample name : Number of events  luminosity          
+ DY3JetsToLL:   1039727     44980         
+ Sample name : Number of events  luminosity          
+ DY4JetsToLL:   4325526     44980         
+ Sample name : Number of events  luminosity          
+ DYJetsToLL:  26751660     44980         
+ Sample name : Number of events  luminosity          
+ EWKWMinus2Jets_WToLNu:   4318570     44980         
+ Sample name : Number of events  luminosity          
+ EWKWPlus2Jets_WToLNu:   4286052     44980         
+ Sample name : Number of events  luminosity          
+ EWKZ2Jets_ZToLL:    856764     44980         
+ Sample name : Number of events  luminosity          
+ EWKZ2Jets_ZToNuNu:   2797840     44980         
+ Sample name : Number of events  luminosity          
+ GluGluHToTauTau:   2727945     44980         
+ Sample name : Number of events  luminosity          
+ GluGluHToWWTo2L2Nu:    454504     44980         
+ Sample name : Number of events  luminosity          
+ ST_t-channel_antitop:   3774020     44980         
+ Sample name : Number of events  luminosity          
+ ST_t-channel_top:   5726750     44980         
+ Sample name : Number of events  luminosity          
+ ST_tW_antitop:   7668040     44980         
+ Sample name : Number of events  luminosity          
+ ST_tW_top:   7510144     44980         
